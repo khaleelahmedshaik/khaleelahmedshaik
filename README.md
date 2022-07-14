@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @khaleelahmedshaik
 - 👀 I’m interested in learning new coding languages , new technologies etc
-- 🌱 I’m currently learning c++, one of the achievement I need to complete before next year. This is one task from the master list. There are 26 more tasks which I need to comeplet by next year august month.
+- 🌱 I’m currently learning c++, one of the achievement I need to complete before next year. This is one task from the master list. There are 26 more tasks which I need to complete by next year august month.
 - 💞️ I’m looking to collaborate on c++, python, device drivers .
